@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox Layout</title>
+    <link rel="stylesheet" href="flexbox.css">
+</head>
+<body>
+
+    <header>
+        <h1>Dodge Challenger Shop</h1>
+    </header>
+
+    <main class="flex-container">
+
+        <section class="flex-item">
+            <h2>First Logo</h2>
+            <p>Dodge</p>
+            <img src="https://carbannerflags.com/cdn/shop/products/Dodge_Black_800_DSC07878-cs_a52ca943-fb46-4fb9-8d35-39ac02d7a9b8_1200x.jpg?v=1527365940" alt="Image 1">
+        </section>
+
+        <section class="flex-item">
+            <h2>Second Car</h2>
+            <p>Beutiful Dodge In Winter</p>
+            <img src="https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/584/2017-dodge-challenger_100584430.jpg" alt="Image 2">
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; Best SuperCars youll find</p>
+    </footer>
+
+</body>
+</html>
